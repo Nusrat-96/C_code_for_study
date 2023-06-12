@@ -1,0 +1,6 @@
+for comment out multiple lines          shift + alt + A    or CTRL+/
+
+To toggle a block comment, execute editor.action.blockComment (SHIFT-ALT-A)
+
+CTRL+K creates a -BREAKPOINT-. Breakpoints don't respond to CTRL+/ so highlight your code,
+use CTRL+K to remove the breakpoint; then press CTRL+/ to uncomment your block.
